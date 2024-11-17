@@ -12,7 +12,7 @@
 
 💻 **Skills**  
 - **Languages**: PHP, HTML, CSS, JavaScript  
-- **Tools**: Photoshop, SweetAlert, Git, Figma  
+- **Tools**: Photoshop, SweetAlert, Git, Canva
 
 🌐 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldren-dela-cruz-8a0858335)  
