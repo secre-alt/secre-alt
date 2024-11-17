@@ -1,22 +1,25 @@
-# Hi there! 👋 I'm Eldren Dela Cruz
+# Hi there! 👋 I'm Eldren Dela Cruz  
 🚀 **Information Systems Student | Digital Artist | Aspiring Developer**
 
-🎨 **About Me**
-- 🌱 Currently learning PHP and web development.
-- 🎨 Passionate about digital art using Photoshop and IbisPaint.
-- 👨‍💻 Building projects like an organization dashboard.
+🎨 **About Me**  
+- 🌱 Currently learning PHP and web development.  
+- 🎨 Passionate about digital art using Photoshop and IbisPaint.  
+- 👨‍💻 Building projects like an organization dashboard with event tracking.  
 
-📂 **My Projects**
-- [Event Tracker Dashboard](#)
-- [Join an Organization Feature](#)
+📂 **My Projects**  
+- [Event Tracker Dashboard](#)  
+- [Join an Organization Feature](#)  
 
-💻 **Skills**
-- Languages: PHP, HTML, CSS, JavaScript
-- Tools: Photoshop, SweetAlert, Git, Figma
+💻 **Skills**  
+- **Languages**: PHP, HTML, CSS, JavaScript  
+- **Tools**: Photoshop, SweetAlert, Git, Figma  
 
----
+🌐 **Connect with Me**  
+- [LinkedIn Profile](https://www.linkedin.com/in/eldren-dela-cruz-8a0858335)  
+- [GitHub Profile](https://github.com/eldrendelacruz)
 
-
+📊 **GitHub Stats**  
+![Eldren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eldrendelacruz&show_icons=true)
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___secree?igsh=MWVwZTNtM) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/eldren-dela-cruz-8a0858335]) 
 
