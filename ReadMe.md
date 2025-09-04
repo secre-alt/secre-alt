@@ -1,24 +1,91 @@
-# Hi there! 👋 I'm Eldren Dela Cruz  
-🚀 **Information Systems Student | Digital Artist | Aspiring Developer**
+<!-- Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=secre-alt.secre-alt" alt="Visitor Badge" />
+</p>
 
-🎨 **About Me**  
-- 🌱 Currently learning PHP and web development.  
-- 🎨 Passionate about digital art using Photoshop and IbisPaint.  
-- 👨‍💻 Building projects like an organization dashboard with event tracking.  
+<!-- Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eldren+Dela+Cruz!" alt="Typing SVG" />
+</h1>
 
-📂 **My Projects**  
-- [Event Tracker Dashboard](#)  
-- [Join an Organization Feature](#)  
+<h3 align="center">💻 An aspiring software developer & digital artist from the Philippines 🇵🇭</h3>
 
-💻 **Skills**  
-- **Languages**: PHP, HTML, CSS, JavaScript  
-- **Tools**: Photoshop, SweetAlert, Git, Canva
+<br/>
 
-🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldren-dela-cruz-8a0858335)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/secre-alt)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___secree/profilecard/?igsh=MWVwZTNtMWZod3BkZw==)
+<!-- 💼 About Me -->
+<div align="center">
+  🔭 I’m currently a BS Information Systems student and club president of <b>The Vector</b>.  
+  🌱 I’m exploring full-stack development with Django, Vue.js, and PHP.  
+  🎨 I also do digital arts and custom merchandise design.
+</div>
 
+<!-- 📫 Contact -->
+<div align="center" style="margin-top: 10px;">
+  <a href="mailto:eldrendelacruz07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/eldren-dela-cruz-8a0858335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/secre-alt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/___secree/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<!-- 🛠️ Tech Stack -->
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+
+<table align="center">
+  <!-- 🌐 Front-End -->
+  <tr><th colspan="8" align="center">🌐 Front-End</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"><br>CSS</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40"><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="40"><br>Vue.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript</td>
+    <td align="center"><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-3521520-2945023.png" width="40"><br>jQuery</td>
+  </tr>
+
+  <!-- 🧠 Back-End -->
+  <tr><th colspan="8" align="center">🧠 Back-End</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"><br>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40"><br>Django</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"><br>Flask</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase</td>
+  </tr>
+
+  <!-- 🗄️ Databases -->
+  <tr><th colspan="5" align="center">🗄️ Databases</th></tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"><br>MySQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"><br>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="40"><br>PostgreSQL</td>
+  </tr>
+</table>
+
+---
+
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=secre-alt&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+  <br/>
+  <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=secre-alt&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph%20of%20last%2030%20days" alt="GitHub Activity" />
+  <br/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=secre-alt&hide=HTML&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+</div>
 
 
 
