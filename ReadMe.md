@@ -14,7 +14,7 @@
 
 <!-- 💼 About Me -->
 <div align="center">
-  🔭 I’m currently a BS Information Systems student and club president of <b>The Vector</b>.  
+  🔭 I’m currently a BS Information Systems student.  
   🌱 I’m exploring full-stack development with Django, Vue.js, and PHP.  
   🎨 I also do digital arts and custom merchandise design.
 </div>
